@@ -108,7 +108,7 @@ Installation
 ### apt-vim installation
 Install [apt-vim][] and then run the following in terminal:
 
-    apt-vim install -y https://github.com/egalpin/YouCompleteMe
+    apt-vim install -y https://github.com/egalpin/YouCompleteMe.git
 
 And you're done! The apt-vim method works on Mac OS X as well as Linux (Ubuntu/Debian).
 
